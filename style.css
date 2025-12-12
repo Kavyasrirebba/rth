@@ -1601,7 +1601,7 @@ img {
 /* Images Styling*/
 
 .hero {
-    background: linear-gradient(rgba(52, 42, 19, 0.8), rgba(27, 22, 11, 0.9)), url('./files/hills-background.jpg');
+    background: linear-gradient(rgba(52, 42, 19, 0.8), rgba(27, 22, 11, 0.9)), url('./hills-background.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1638,7 +1638,7 @@ img {
 
 
 .program-overview{
-    background: linear-gradient(rgba(52, 42, 19, 0.8), rgba(27, 22, 11, 0.9)), url('./files/group-cheering-pic.jpg');
+    background: linear-gradient(rgba(52, 42, 19, 0.8), rgba(27, 22, 11, 0.9)), url('./group-cheering-pic.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1674,7 +1674,7 @@ img {
 
 
 .testimonials{
-    background: linear-gradient(rgba(52, 42, 19, 0.8), rgba(27, 22, 11, 0.9)), url('./files/customers-1.jpg');
+    background: linear-gradient(rgba(52, 42, 19, 0.8), rgba(27, 22, 11, 0.9)), url('./customers-1.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1703,4 +1703,5 @@ img {
 .program-content {
     position: relative;
     z-index: 2;
+
 }
